@@ -14,6 +14,8 @@ import io.appium.java_client.service.local.AppiumServiceBuilder;
 
 public class AdsAutomations {
 	
+	//Commiting through EGit
+	
 	public static AndroidDriver<MobileElement> driver;
 	
 	public static void main(String[] args) throws MalformedURLException, InterruptedException {
